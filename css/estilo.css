@@ -16,7 +16,6 @@ body {
     height: 100vh;
 }
 
-/* Estilos para la barra lateral */
 .sidebar {
     width: 350px;
     background: linear-gradient(135deg, #2c3e50 0%, #1a2533 100%);
@@ -126,7 +125,6 @@ body {
     color: #4dabf7;
 }
 
-/* Estilos para el login */
 .login-container {
     flex: 1;
     display: flex;
@@ -284,7 +282,7 @@ body {
     }
     
     .company-info {
-        display: none; /* Ocultar información en móviles para ahorrar espacio */
+        display: none;
     }
     
     .logo-container {
